@@ -1,6 +1,6 @@
 # Seattle, WA. TerryStop Analysis
 
-![alt text](Policecarbluelight.jpg)
+<img src=“images/handcuff.jpg” >
 
 ## Objectives
 * Determine which modeling method performs best for this dataset.
