@@ -1,6 +1,6 @@
 # Seattle, WA. TerryStop Analysis
 
-<img src=“Images/handcuff.jpg” >
+![](https://github.com/peimani/TerryStop/blob/main/Images/handcuff.jpg)
 
 ## Objectives
 * Determine which modeling method performs best for this dataset.
@@ -20,7 +20,7 @@ The best model score was obtained from the RandomForestClassifier of 0.915.
 
 The features that I identified as being important included the officers age, repeat offenders and incident time.
 
-![alt text](features.png)
+![](https://github.com/peimani/TerryStop/blob/main/Images/features.png)
 
 ## Identified Areas of Interest
 
@@ -30,20 +30,19 @@ It was that there was a discrepancy in the African American community when it ca
 
 The percentage of those in the black/African-American community was disproportionate. While Blacks make up about 7% of the population of Seattle, they make up about 33% of those being stopped. It was also noted that the majority of the officers involved were white. This could point to a problem with officer demographics not representative of the communities they serve.
 
-![alt text](Policecarbluelight.jpg)
-![alt text](Policecarbluelight.jpg)
+![](https://github.com/peimani/TerryStop/blob/main/Images/stopped%20demog.png)
 
 ### Q2:  Is there an issues when the race of the officer is different than that of the subject?
 
 Here, it was noted that there were as many as 1.5 times as many different race stops.  This is an area that could indicate that there may be a cultural problem as officers of the same race did not detain as many subjects.
 
-![alt text](Policecarbluelight.jpg)
+![](https://github.com/peimani/TerryStop/blob/main/Images/dif%20race.png)
 
 ### Q3:  Are there correlations between frisks and arrests?
 
 By isolating those who were only frisked and looking at those who were frisked and arrested, we found a large discrepancy.  It was noted that there were a large number of frisks that did not end in anyone being arrested.  This 'Gap' could signify that there frisking people may be excessive.  Excessive stops by officers can lead to a distrust or feeling of harassment by the communities they serve.
 
-![alt text](Policecarbluelight.jpg)
+![](https://github.com/peimani/TerryStop/blob/main/Images/frisks%20v.%20arrests.png)
 
 #### Recommendation:
 
